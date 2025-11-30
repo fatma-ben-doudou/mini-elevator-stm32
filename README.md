@@ -44,12 +44,6 @@ Projet académique : mini ascenseur conçu avec STM32, keypad 4×3 et LCD. Deux 
 | Motoréducteur DC | IN3: PA8, IN4: PB10, ENB: PA7 |
 | LCD 16x2  | EN: PB1, RS: PB2, D4: PB4, D5: PB5, D6: PB6, D7: PB7 |
 
-## Structure
-mini-ascenseur/
-│── README.md
-│── code/
-│     ├── main.c
-│     ├── lcd.c / lcd.h
 
 
 ## Licence
